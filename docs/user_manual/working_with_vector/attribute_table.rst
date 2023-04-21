@@ -1,6 +1,15 @@
 .. index:: Attribute table
 .. _sec_attribute_table:
 
+
+
+.. figure:: img/qgislogo.png
+   :align: center
+
+   Attribute Table for regions layer 111111111111111
+
+
+
 **********************************
  Working with the Attribute Table
 **********************************
